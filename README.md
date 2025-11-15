@@ -23,8 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
-###
-
-###
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkzYTFqMzd4aW40bWRodmI5cndqM2hhcDd0eXY4d21tZG00ZGh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyuqO8Zi0yCqWXhhJd/giphy.gif"  />
